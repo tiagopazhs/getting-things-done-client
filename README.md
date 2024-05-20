@@ -14,6 +14,7 @@ See more on: https://gettingthingsdone.com/
 ## Contents
 
 - [Table of Contents](#table-of-contents)
+  - [Releases](#releases)
   - [Business Rules](#business-rules)
   - [User Journey (Version 1)](#user-journey-version-1)
   - [Installation](#installation)
@@ -21,6 +22,17 @@ See more on: https://gettingthingsdone.com/
   - [Contributing](#contributing)
   - [License](#license)
   - [Backend Repository](#backend-repository)
+
+## Releases
+
+#### v1.0.0
+
+- [Simple wire frame with the business rules documentation](https://github.com/tiagopazhs/getting-things-done-client/issues/3)
+- [Read-me V1.0.0 documentation](https://github.com/tiagopazhs/getting-things-done-client/issues/6)
+- [Setup front-end](https://github.com/tiagopazhs/getting-things-done-client/issues/5)
+- [prerequisites v1.0.0 documentation](https://github.com/tiagopazhs/getting-things-done-client/issues/4)
+- [Home screen](https://github.com/tiagopazhs/getting-things-done-client/issues/7)
+- [Aaction view](https://github.com/tiagopazhs/getting-things-done-client/issues/8)
 
 ## Business Rules
 

@@ -90,4 +90,7 @@ http://localhost:5173/
 Bug reports and pull requests are welcome on GitHub at https://github.com/tiagopazhs/getting-things-done-client/. This project is intended to be a safe and welcoming space for collaboration.
 
 ## License
+This project is available as open source under the terms of the [MIT License](https://opensource.org/license/MIT).
+
 ## Backend Repository
+For more details about the backend project, see: https://github.com/tiagopazhs/getting-things-done-server.

@@ -25,10 +25,25 @@ See more on: https://gettingthingsdone.com/
 ## Business Rules
 
 The book describes 5 types of `things` that in the project will be defined as 5 `scopes`:
-- Actions (v1.0.0)
+- Actions (Projects) - ⚠️ It will be the unique scope of **v1.0.0**.
 - Follow-ups
 - References
 - Schedules
 - Trash
 
 For more details about business rules, see: https://github.com/tiagopazhs/getting-things-done-client/issues/2
+
+
+## User Journey (Version 1)
+
+### Dowload of the entire page:
+[PDF of GTD - made on https://lucid.app](https://github.com/tiagopazhs/getting-things-done-client/files/15376593/GTD.-.Page.1.pdf)
+
+### Preview:
+##### Left side of the page.
+![image](https://github.com/tiagopazhs/getting-things-done-client/assets/81580990/4496e1de-2bde-461c-8d1c-5f038ed65f21)
+
+
+##### Rigth side of the page.
+![image](https://github.com/tiagopazhs/getting-things-done-client/assets/81580990/f3cbd7ac-d4f6-4a62-a135-0234285b188e)
+

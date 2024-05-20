@@ -47,3 +47,27 @@ For more details about business rules, see: https://github.com/tiagopazhs/gettin
 ##### Rigth side of the page.
 ![image](https://github.com/tiagopazhs/getting-things-done-client/assets/81580990/f3cbd7ac-d4f6-4a62-a135-0234285b188e)
 
+## Installation
+
+Clone the repository to your machine with the following command:
+
+```ruby
+git@github.com:tiagopazhs/getting-things-done-client.git
+```
+
+Navigate to the root folder:
+
+```bash
+$ cd getting-things-done-client
+```
+
+And then install the packages running:
+
+```bash
+$ npm install
+```
+
+## Usage
+## Contributing
+## License
+## Backend Repository

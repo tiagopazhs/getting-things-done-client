@@ -87,5 +87,7 @@ http://localhost:5173/
 
 
 ## Contributing
+Bug reports and pull requests are welcome on GitHub at https://github.com/tiagopazhs/getting-things-done-client/. This project is intended to be a safe and welcoming space for collaboration.
+
 ## License
 ## Backend Repository

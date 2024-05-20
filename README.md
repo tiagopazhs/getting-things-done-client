@@ -68,6 +68,24 @@ $ npm install
 ```
 
 ## Usage
+
+If your are not in the root folder, navigate to there using:
+
+```bash
+$ cd getting-things-done-client
+```
+
+Run the project:
+
+```bash
+$ npm run dev
+```
+
+Open your browser in the following path:
+
+http://localhost:5173/
+
+
 ## Contributing
 ## License
 ## Backend Repository

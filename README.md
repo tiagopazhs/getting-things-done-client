@@ -22,3 +22,13 @@ See more on: https://gettingthingsdone.com/
   - [License](#license)
   - [Backend Repository](#backend-repository)
 
+## Business Rules
+
+The book describes 5 types of `things` that in the project will be defined as 5 `scopes`:
+- Actions (v1.0.0)
+- Follow-ups
+- References
+- Schedules
+- Trash
+
+For more details about business rules, see: https://github.com/tiagopazhs/getting-things-done-client/issues/2

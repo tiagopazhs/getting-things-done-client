@@ -14,6 +14,10 @@ function ActionList() {
             .catch((error) => console.error(error));
     }
 
+    function createAction() {
+        alert('This feature is not ready yet')
+    }
+
     function concludeActions(id: number): void {
         console.log('done', id)
         axios.put('http://localhost:8022/actions/' + id, { status: "done" })
@@ -29,7 +33,10 @@ function ActionList() {
 
     return (
         <div>
-            <h2>Actions List</h2>
+            <div className="actionHeader" >
+                <h2>Actions List</h2>
+                <button onClick={() => { createAction() }}>New Action</button>
+            </div>
             <ul>
                 {actions.map((action) => (
                     <li className="actionCard" key={action.id}>

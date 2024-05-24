@@ -1,8 +1,9 @@
 import { useState, useEffect } from 'react'
 import axios from 'axios';
+import { actionsDataProps } from './types/global';
 
 function ActionList() {
-    const [actions, setActions] = useState<>([]);
+    const [actions, setActions] = useState<actionsDataProps>([]);
 
     useEffect(() => {
         axios.get('http://localhost:8022/actions')
